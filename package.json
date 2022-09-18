@@ -1,0 +1,26 @@
+{
+    "name": "arbain-id",
+    "version": "1.0.0",
+    "description": "Hadits Arbain Data Sheet",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "prepare": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/abdanzamzam/arbain-id.git"
+    },
+    "keywords": [],
+    "author": "Abdan Zam Zam Ramadhan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/abdanzamzam/arbain-id/issues"
+    },
+    "homepage": "https://github.com/abdanzamzam/arbain-id#readme",
+    "devDependencies": {
+        "@types/node": "^18.7.18",
+        "typescript": "^4.8.3"
+    }
+}
